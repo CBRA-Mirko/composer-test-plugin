@@ -1,7 +1,7 @@
 {
   "name": "cbradigital/composer-test-plugin",
   "description": "A WordPress plugin hosted on GitHub, to be installed via Composer",
-  "type": "wordpress-plugin",
+  "type": "wordpress-theme",
   "license": "GPL-2.0-or-later",
   "require": {
     "php": ">=7.4"
